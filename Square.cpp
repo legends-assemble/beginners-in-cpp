@@ -8,5 +8,6 @@ int main(){
    if(num<0){
       num*=-1;
       }
-   int SumOfInteger;
+   int SumOfInteger=num;
+   for
    }
